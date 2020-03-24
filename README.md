@@ -8,4 +8,7 @@ Author: Michael Bataller
 4. [Binding specific variables to an array](./adv-arrays.js)
 5. [Assigning Functions as Function Arguments](./array-map.js)
 6. [Prototypes](./prototypes.js)
-7. [Long Version of Classess](./classes_I.js)
+7. [Classes: How They Work Through Functions](./classes_I.js)
+8. [Classes and Constructors: Easier and Shorter Code](./classes_II.js) <br>
+Exercise: [Working on Classes](./example/classes.js)
+9. 
