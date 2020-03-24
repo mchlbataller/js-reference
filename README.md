@@ -11,4 +11,4 @@ Author: Michael Bataller
 7. [Classes: How They Work Through Functions](./classes_I.js)
 8. [Classes and Constructors: Easier and Shorter Code](./classes_II.js) <br>
 Exercise: [Working on Classes](./example/classes.js)
-9. 
+9. [Other ways to create Object Instances](./classes_III.js)
