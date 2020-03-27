@@ -12,3 +12,4 @@ Author: Michael Bataller
 8. [Objects and Constructors: Easier and Shorter Code](./classes_II.js) <br>
 Exercise: [Working on Classes](./example/classes.js)
 9. [Other ways to create Object Instances](./classes_III.js)
+10. [Default Parameters in Functions](./default_params.js)
