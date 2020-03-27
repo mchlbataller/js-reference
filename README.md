@@ -13,3 +13,5 @@ Author: Michael Bataller
 Exercise: [Working on Classes](./example/classes.js)
 9. [Other ways to create Object Instances](./classes_III.js)
 10. [Default Parameters in Functions](./default_params.js)
+11. [Spread Operator `...arr`](./spread.js)
+12. [Rest Parameter `...args`](./rest.js)
